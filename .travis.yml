@@ -1,0 +1,5 @@
+language: pyhton
+python:
+       "3.8"
+script:
+       "cd src; python teste.py"
