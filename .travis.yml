@@ -1,5 +1,5 @@
 language: pyhton
 python:
-       "3.8"
+  - "3.4"   
 script:
-       "cd src; python teste.py"
+  - cxd src; python testes.py 
