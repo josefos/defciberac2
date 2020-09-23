@@ -2,4 +2,4 @@ language: pyhton
 python:
   - "3.4"   
 script:
-  - cxd src; python testes.py 
+  - cd src; python testes.py 
